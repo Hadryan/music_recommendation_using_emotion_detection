@@ -11,4 +11,7 @@ Simran Mohanty
 # Guided By:-
 ## Dr SUKANT KISHORO BISOY 
 (HOD of CSE Department, C.V.Raman Global university)
+
+## Status:- 52% (WIP)
+
 ![ml](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
